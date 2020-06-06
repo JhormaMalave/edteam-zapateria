@@ -88,9 +88,9 @@ VALUES
 
 # Valores ingresados en las tablas
 # Descomentar las lineas de abajo
-SELECT * FROM paises;
-SELECT * FROM productos;
-SELECT * FROM clientes;
-SELECT * FROM inventarios;
-SELECT * FROM facturas;
-SELECT * FROM facturas_productos;
+# SELECT * FROM paises;
+# SELECT * FROM productos;
+# SELECT * FROM clientes;
+# SELECT * FROM inventarios;
+# SELECT * FROM facturas;
+# SELECT * FROM facturas_productos;

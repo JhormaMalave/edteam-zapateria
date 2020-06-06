@@ -85,9 +85,9 @@ CREATE TABLE facturas_productos(
 
 # Descripcion de las tablas
 # Descomentar las lineas de abajo
- DESC paises;
- DESC productos;
- DESC clientes;
- DESC inventarios;
- DESC facturas;
- DESC facturas_productos;
+# DESC paises;
+# DESC productos;
+# DESC clientes;
+# DESC inventarios;
+# DESC facturas;
+# DESC facturas_productos;
